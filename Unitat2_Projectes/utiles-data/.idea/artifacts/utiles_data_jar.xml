@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="utiles-data:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/utiles_data_jar</output-path>
+    <root id="root">
+      <element id="archive" name="utiles-data.jar">
+        <element id="module-output" name="utiles-data" />
+      </element>
+    </root>
+  </artifact>
+</component>
